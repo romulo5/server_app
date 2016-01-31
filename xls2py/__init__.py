@@ -5,14 +5,14 @@ import json
 
 # Importa os dados das planilhas excel utilizando a biblioteca pyexcel e gera um json com os dados.
 
-def convert_xls2py():
+def convert():
 
     #Definir formato de localização para pt-BR
     locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 
     #Planilha - GND
     # Importa dados da planilha de Grandes Grupos de Despesa
-    raw_sheet_gnd = pyexcel.get_sheet(file_name="ex2py/gnd-raw.xls")
+    raw_sheet_gnd = pyexcel.get_sheet(file_name="xls2py/gnd-raw.xls")
 
     #Remove linhas e colunas desnecessárias
     raw_sheet_gnd.delete_rows(list(range(4))) #deleta linhas acima
@@ -31,7 +31,7 @@ def convert_xls2py():
 
     # Funções
     # Importa dados da planilha de Funções
-    raw_sheet_func = pyexcel.get_sheet(file_name="ex2py/funcoes-raw.xls")
+    raw_sheet_func = pyexcel.get_sheet(file_name="xls2py/funcoes-raw.xls")
 
     #Remove linhas e colunas desnecessárias
     raw_sheet_func.delete_rows(list(range(4))) #deleta linhas acima

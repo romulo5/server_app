@@ -1,12 +1,12 @@
 from flask import Flask
-import ex2py
+import xls2py
 
 app = Flask(__name__)
 
 
 @app.route('/')
 def api_response():
-    return ex2py.convert_xls2py()
+    return xls2py.convert()
     
 @app.route('/update')
 def update_xls():
