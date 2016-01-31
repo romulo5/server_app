@@ -1,0 +1,183 @@
+[
+    {
+        "Funcoes": [
+            {
+                "Funcao": "01 - LEGISLATIVA",
+                "Pago": 6753103952.444182,
+                "Autorizado": 7507690746
+            },
+            {
+                "Funcao": "02 - JUDICIARIA",
+                "Pago": 29026772407.37495,
+                "Autorizado": 32218086130
+            },
+            {
+                "Funcao": "03 - ESSENCIAL A JUSTICA",
+                "Pago": 5906145798.076047,
+                "Autorizado": 6935906409
+            },
+            {
+                "Funcao": "04 - ADMINISTRACAO",
+                "Pago": 20556242176.27907,
+                "Autorizado": 29344147690
+            },
+            {
+                "Funcao": "05 - DEFESA NACIONAL",
+                "Pago": 33346171365.920177,
+                "Autorizado": 46413519494.990005
+            },
+            {
+                "Funcao": "06 - SEGURANCA PUBLICA",
+                "Pago": 7753719483.824448,
+                "Autorizado": 10807229620
+            },
+            {
+                "Funcao": "07 - RELACOES EXTERIORES",
+                "Pago": 3094844303.8801785,
+                "Autorizado": 3069571007.01
+            },
+            {
+                "Funcao": "08 - ASSISTENCIA SOCIAL",
+                "Pago": 69189785248.78,
+                "Autorizado": 74550701634
+            },
+            {
+                "Funcao": "09 - PREVIDENCIA SOCIAL",
+                "Pago": 514494995315.75006,
+                "Autorizado": 541631120447
+            },
+            {
+                "Funcao": "10 - SAUDE",
+                "Pago": 93864923546.9028,
+                "Autorizado": 113007419766
+            },
+            {
+                "Funcao": "11 - TRABALHO",
+                "Pago": 65319558562.74483,
+                "Autorizado": 69970536779
+            },
+            {
+                "Funcao": "12 - EDUCACAO",
+                "Pago": 88600744415.36128,
+                "Autorizado": 115501163942
+            },
+            {
+                "Funcao": "13 - CULTURA",
+                "Pago": 855175441.9707521,
+                "Autorizado": 2797362737
+            },
+            {
+                "Funcao": "14 - DIREITOS DA CIDADANIA",
+                "Pago": 714905463.7760701,
+                "Autorizado": 2202296040
+            },
+            {
+                "Funcao": "15 - URBANISMO",
+                "Pago": 1133010594.6200001,
+                "Autorizado": 9573360982
+            },
+            {
+                "Funcao": "16 - HABITACAO",
+                "Pago": 2391943.72,
+                "Autorizado": 182848917
+            },
+            {
+                "Funcao": "17 - SANEAMENTO",
+                "Pago": 259588717.48,
+                "Autorizado": 2480716741
+            },
+            {
+                "Funcao": "18 - GESTAO AMBIENTAL",
+                "Pago": 3017743180.69327,
+                "Autorizado": 7316146303
+            },
+            {
+                "Funcao": "19 - CIENCIA E TECNOLOGIA",
+                "Pago": 6114662452.808439,
+                "Autorizado": 10596465381
+            },
+            {
+                "Funcao": "20 - AGRICULTURA",
+                "Pago": 18044289736.55348,
+                "Autorizado": 28813431209
+            },
+            {
+                "Funcao": "21 - ORGANIZACAO AGRARIA",
+                "Pago": 1656759102.277353,
+                "Autorizado": 5879650969
+            },
+            {
+                "Funcao": "22 - INDUSTRIA",
+                "Pago": 1970587525.7100003,
+                "Autorizado": 2750377919
+            },
+            {
+                "Funcao": "23 - COMERCIO E SERVICOS",
+                "Pago": 1110885508.7858956,
+                "Autorizado": 5861073698
+            },
+            {
+                "Funcao": "24 - COMUNICACOES",
+                "Pago": 1205327613.9284587,
+                "Autorizado": 1616062110
+            },
+            {
+                "Funcao": "25 - ENERGIA",
+                "Pago": 1577419985.559651,
+                "Autorizado": 2337191826
+            },
+            {
+                "Funcao": "26 - TRANSPORTE",
+                "Pago": 9754913514.13,
+                "Autorizado": 24638383817
+            },
+            {
+                "Funcao": "27 - DESPORTO E LAZER",
+                "Pago": 657190590.156841,
+                "Autorizado": 3425032352
+            },
+            {
+                "Funcao": "28 - ENCARGOS ESPECIAIS",
+                "Pago": 1281616304305.207,
+                "Autorizado": 1746556772910
+            }
+        ],
+        "GND": [
+            {
+                "Autorizado": 257837607880.99,
+                "Pago": 255070795692.053,
+                "GND": "PESSOAL E ENCARGOS SOCIAIS"
+            },
+            {
+                "Autorizado": 277346405644,
+                "Pago": 208360341749.48,
+                "GND": "JUROS E ENCARGOS DA DIVIDA"
+            },
+            {
+                "Autorizado": 1111191402786.01,
+                "Pago": 980422533980.522,
+                "GND": "OUTRAS DESPESAS CORRENTES"
+            },
+            {
+                "Autorizado": 80424536525,
+                "Pago": 9640124166.28988,
+                "GND": "INVESTIMENTOS"
+            },
+            {
+                "Autorizado": 95655404099,
+                "Pago": 60254317092.51,
+                "GND": "INVERSOES FINANCEIRAS"
+            },
+            {
+                "Autorizado": 1079956861204,
+                "Pago": 753850049573.86,
+                "GND": "AMORTIZACAO/REFINANCIAMENTO DA DIVIDA"
+            },
+            {
+                "Autorizado": 36073892384,
+                "Pago": 0,
+                "GND": "RESERVA DE CONTINGENCIA"
+            }
+        ]
+    }
+]
