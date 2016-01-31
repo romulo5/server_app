@@ -1,15 +1,14 @@
-from flask import Flask, jsonify
+from flask import Flask
+
+import pyex
 
 app = Flask(__name__)
 
+
 @app.route('/')
 def first_json_test():
-    return jsonify({'message':'teste funcionou!'})
-
-
+    return pyex.response
+    
 if __name__ == '__main__':
     app.run(debug=True)
-
-
-
 
