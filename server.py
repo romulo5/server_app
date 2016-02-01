@@ -1,7 +1,9 @@
 import os
+
 from flask import Flask, request, url_for, flash, render_template
-from werkzeug.utils import redirect
-from werkzeug.utils import secure_filename
+
+from flask_bootstrap import Bootstrap
+
 import xls2py
 
 
@@ -14,6 +16,7 @@ GND_FILE = 'gnd-raw.xls'
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.secret_key = 'some_secret'
+Bootstrap(app)
 
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1] in ALLOWED_EXTENSIONS
