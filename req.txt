@@ -1,8 +1,11 @@
+-f /usr/share/pip-wheels
 blessings==1.6
 bpython==0.15
 curtsies==0.2.6
 decorator==4.0.6
+dominate==2.1.16
 Flask==0.10.1
+Flask-Bootstrap==3.3.5.7
 future==0.15.2
 greenlet==0.4.9
 ipython==4.0.3
@@ -23,6 +26,7 @@ simplegeneric==0.8.1
 six==1.10.0
 texttable==0.8.4
 traitlets==4.1.0
+visitor==0.1.2
 wcwidth==0.1.6
 Werkzeug==0.11.3
 wheel==0.26.0

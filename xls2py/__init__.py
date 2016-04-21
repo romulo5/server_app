@@ -12,7 +12,7 @@ def convert():
 
     #Planilha - GND
     # Importa dados da planilha de Grandes Grupos de Despesa
-    raw_sheet_gnd = pyexcel.get_sheet(file_name="xls2py/gnd-raw.xls")
+    raw_sheet_gnd = pyexcel.get_sheet(file_name="/home/romulofloresta/server_app/xls2py/gnd-raw.xls")
 
     #Remove linhas e colunas desnecessárias
     raw_sheet_gnd.delete_rows(list(range(4))) #deleta linhas acima
@@ -31,7 +31,7 @@ def convert():
 
     # Funções
     # Importa dados da planilha de Funções
-    raw_sheet_func = pyexcel.get_sheet(file_name="xls2py/funcoes-raw.xls")
+    raw_sheet_func = pyexcel.get_sheet(file_name="/home/romulofloresta/server_app/xls2py/funcoes-raw.xls")
 
     #Remove linhas e colunas desnecessárias
     raw_sheet_func.delete_rows(list(range(4))) #deleta linhas acima
@@ -53,5 +53,5 @@ def convert():
         record['Pago'] = locale.currency(record["Pago"], grouping=True, symbol=None)
 
     # Retorna json com os dados
-    response = json.dumps([{'Funcao': py_records_func, 'GND': py_records_gnd}])
+    response = json.dumps({'Funcao': py_records_func, 'GND': py_records_gnd})
     return response

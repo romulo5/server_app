@@ -1,17 +1,21 @@
 import os
 
-from flask import Flask, request, url_for, flash, render_template
+import datetime
+
+import json
+
+from flask import Flask, request, flash, render_template
 
 from flask_bootstrap import Bootstrap
 
 import xls2py
 
 
-UPLOAD_FOLDER = 'xls2py'
+UPLOAD_FOLDER = '/home/romulofloresta/server_app/xls2py'
 ALLOWED_EXTENSIONS = {'xls', 'xlsx'}
 FUNC_FILE = 'funcoes-raw.xls'
 GND_FILE = 'gnd-raw.xls'
-
+JSON_FILE = 'server_app/version.json'
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
@@ -25,7 +29,7 @@ def allowed_file(filename):
 @app.route('/', methods=['GET'])
 def api_response():
     return xls2py.convert()
-    
+
 
 @app.route('/upload', methods=['GET', 'POST'])
 def upload_xls():
@@ -39,10 +43,27 @@ def upload_xls():
         if file and allowed_file(file.filename):
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], GND_FILE))
             flash("Arquivo GND Atualizado.")
-
+        update_version()
     return render_template('upload.html')
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
+@app.route('/version', methods=['GET'])
+def version_response():
+    with open(JSON_FILE, 'r') as f:
+        version_data = json.load(f)
+        return json.dumps(version_data)
+
+
+def update_version():
+    with open(JSON_FILE, 'r') as f:
+        version_data = json.load(f)
+        f.close()
+    version_data['update_time'] = datetime.datetime.now().strftime("%x - %H:%M:%S")
+    version_data['version'] += 1
+    with open(JSON_FILE, 'w+') as f:
+        f.write(json.dumps(version_data))
+        f.close()
+
+#if __name__ == '__main__':
+ #   app.run()
 
