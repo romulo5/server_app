@@ -38,15 +38,25 @@
                 </div>
                     <input class="btn btn-primary btn-lg btn-block" type=submit value=Enviar>
             </form>
-            {% with messages = get_flashed_messages() %}
+            <ul class="flashes list-unstyled">
+                {% with messages = get_flashed_messages(category_filter=["success"]) %}
                     {% if messages %}
-                         <ul class="flashes list-unstyled">
                     {% for message in messages %}
                         <li class="label label-success">{{ message }}</li>
                     {% endfor %}
+
+                    {% endif %}
+                {% endwith %}
+
+                {% with errors = get_flashed_messages(category_filter=["error"]) %}
+                    {% if errors %}
+
+                    {% for error in errors %}
+                        <li class="label label-danger">{{ error }}</li>
+                    {% endfor %}
+                    {% endif %}
+                {% endwith %}
             </ul>
-        {% endif %}
-    {% endwith %}
         </div>
 
         <footer class="navbar-default navbar-fixed-bottom">

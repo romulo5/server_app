@@ -3,7 +3,8 @@ import os
 import datetime
 
 import json
-from flask import Flask, request, url_for, flash, render_template
+
+from flask import Flask, request, flash, render_template
 
 from flask_bootstrap import Bootstrap
 
@@ -14,13 +15,12 @@ UPLOAD_FOLDER = 'xls2py'
 ALLOWED_EXTENSIONS = {'xls', 'xlsx'}
 FUNC_FILE = 'funcoes-raw.xls'
 GND_FILE = 'gnd-raw.xls'
-
+JSON_FILE = 'version.json'
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.secret_key = 'some_secret'
 Bootstrap(app)
-
 
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1] in ALLOWED_EXTENSIONS
@@ -29,38 +29,51 @@ def allowed_file(filename):
 @app.route('/', methods=['GET'])
 def api_response():
     return xls2py.convert()
-    
+
 
 @app.route('/upload', methods=['GET', 'POST'])
 def upload_xls():
     if request.method == 'POST':
-        file = request.files['file-func']
-        if file and allowed_file(file.filename):
-            file.save(os.path.join(app.config['UPLOAD_FOLDER'], FUNC_FILE))
-            flash("Arquivo de Funções Atualizado.")
 
-        file = request.files['file-gnd']
-        if file and allowed_file(file.filename):
-            file.save(os.path.join(app.config['UPLOAD_FOLDER'], GND_FILE))
-            flash("Arquivo GND Atualizado.")
-    update_version()
+        # Checa se arquivo de funcao e valido e atualiza
+        filefunc = request.files['file-func']
+        if filefunc and allowed_file(filefunc.filename):
+            filefunc.save(os.path.join(app.config['UPLOAD_FOLDER'], FUNC_FILE))
+            flash("Arquivo de Funções Atualizado.",'success')
+        else:
+            flash("Arquivo de Funções não Atualizado.",'error')
+
+        # Checa se arquivo de GND e valido e atualiza
+        filegnd = request.files['file-gnd']
+        if filegnd and allowed_file(filegnd.filename):
+            filegnd.save(os.path.join(app.config['UPLOAD_FOLDER'], GND_FILE))
+            flash("Arquivo GND Atualizado.",'success')
+        else:
+            flash("Arquivo de GNDs não Atualizado.",'error')
+
+        #Atualiza a versao se um dos arquivos enviado for valido
+        if (filefunc and allowed_file(filefunc.filename)) or (filegnd and allowed_file(filegnd.filename)):
+            update_version()
+
     return render_template('upload.html')
 
-@app.route('')
+
+@app.route('/version', methods=['GET'])
+def version_response():
+    with open(JSON_FILE, 'r') as f:
+        version_data = json.load(f)
+        return json.dumps(version_data)
+
 
 def update_version():
-
-    with open('version.json', 'r') as f:
+    with open(JSON_FILE, 'r') as f:
         version_data = json.load(f)
         f.close()
-    print(version_data)
     version_data['update_time'] = datetime.datetime.now().strftime("%x - %H:%M:%S")
     version_data['version'] += 1
-    print(version_data)
-    with open('version.json', 'w+') as f:
+    with open(JSON_FILE, 'w+') as f:
         f.write(json.dumps(version_data))
         f.close()
-
 
 if __name__ == '__main__':
     app.run(debug=True)

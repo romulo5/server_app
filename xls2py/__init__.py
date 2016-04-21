@@ -53,5 +53,5 @@ def convert():
         record['Pago'] = locale.currency(record["Pago"], grouping=True, symbol=None)
 
     # Retorna json com os dados
-    response = json.dumps([{'Funcao': py_records_func, 'GND': py_records_gnd}])
+    response = json.dumps({'Funcao': py_records_func, 'GND': py_records_gnd})
     return response
