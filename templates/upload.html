@@ -18,7 +18,7 @@
                 <br/>
                 <br/>
                 <h1>Orçamento ao Público</h1>
-                <h3>Upload de Arquivos</h3>
+                <h3>Upload de Arquivo de Dados</h3>
                 <br/>
                 <br/>
                 </div>
@@ -29,14 +29,10 @@
         <div class="col-md-4 col-md-offset-4" align="center">
             <form class="form-horizontal" action="" method=post enctype=multipart/form-data>
                 <div class="form-group">
-                    <label>Planilha de Orçamento por Funções</label>
-                    <input class="filestyle" data-input="false" data-placeholder="Adicionar arquivo" type="file" name="file-func">
+                    <label>Base de dados do Orçamento - Arquivo .mdb </label>
+                    <input class="filestyle" data-input="false" data-placeholder="Adicionar arquivo" type="file" name="data-file">
                 </div>
-                <div class="form-group">
-                    <label>Planilha de Orçamento por GND</label>
-                    <input class="filestyle" type=file name=file-gnd >
-                </div>
-                    <input class="btn btn-primary btn-lg btn-block" type=submit value=Enviar>
+                <input class="btn btn-primary btn-lg btn-block" type=submit value=Enviar>
             </form>
             <ul class="flashes list-unstyled">
                 {% with messages = get_flashed_messages(category_filter=["success"]) %}

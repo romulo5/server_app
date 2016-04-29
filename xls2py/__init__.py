@@ -7,7 +7,7 @@ import json
 
 def convert():
 
-    #Definir formato de localização para pt-BR
+    #Definir formato de localização dos dados
     locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 
     #Planilha - GND
@@ -26,8 +26,8 @@ def convert():
 
     #formata os valores de moeda
     for record in py_records_gnd:
-        record['Autorizado'] = locale.currency(record["Autorizado"], grouping=True, symbol=None)
-        record['Pago'] = locale.currency(record["Pago"], grouping=True, symbol=None)
+        record['Autorizado'] = locale.currency(record["Autorizado"], symbol=None)
+        record['Pago'] = locale.currency(record["Pago"], symbol=None)
 
     # Funções
     # Importa dados da planilha de Funções
@@ -49,9 +49,15 @@ def convert():
     # Formata os campos
     for record in py_records_func:
         record['Funcao'] = record['Funcao'][4:]
-        record['Autorizado'] = locale.currency(record["Autorizado"], grouping=True, symbol=None)
-        record['Pago'] = locale.currency(record["Pago"], grouping=True, symbol=None)
+        record['Autorizado'] = locale.currency(record["Autorizado"], symbol=None)
+        record['Pago'] = locale.currency(record["Pago"], symbol=None)
+
+    #Pega a versão do banco de dados
+    with open("version.json") as f:
+        data_version = json.load(f)
+        f.close()
+
 
     # Retorna json com os dados
-    response = json.dumps({'Funcao': py_records_func, 'GND': py_records_gnd})
+    response = json.dumps({'Funcao': py_records_func, 'GND': py_records_gnd, 'version': data_version['version'], 'updated':data_version['date']})
     return response

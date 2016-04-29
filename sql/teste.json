@@ -1,0 +1,1801 @@
+[
+	{
+		"COD_PROGRAMA" : 0089,
+		"DES_PROGRAMA" : Previdência de Inativos e Pensionistas da União,
+		"NOM_FUNCAO" : Essencial à Justiça,
+		"SUM(ex.Autorizado)" : 377345536,
+		"SUM(ex.Pago)" : 83125728
+	},
+	{
+		"COD_PROGRAMA" : 0089,
+		"DES_PROGRAMA" : Previdência de Inativos e Pensionistas da União,
+		"NOM_FUNCAO" : Previdência Social,
+		"SUM(ex.Autorizado)" : 82210347166.51831,
+		"SUM(ex.Pago)" : 19271887588.648415
+	},
+	{
+		"COD_PROGRAMA" : 0550,
+		"DES_PROGRAMA" : Controle Externo,
+		"NOM_FUNCAO" : Legislativa,
+		"SUM(ex.Autorizado)" : 1266025459.0100195,
+		"SUM(ex.Pago)" : 273587883.0206299
+	},
+	{
+		"COD_PROGRAMA" : 0551,
+		"DES_PROGRAMA" : Atuação Legislativa do Senado Federal,
+		"NOM_FUNCAO" : Legislativa,
+		"SUM(ex.Autorizado)" : 2210228355.873169,
+		"SUM(ex.Pago)" : 455727662.5704346
+	},
+	{
+		"COD_PROGRAMA" : 0553,
+		"DES_PROGRAMA" : Atuação Legislativa da Câmara dos Deputados,
+		"NOM_FUNCAO" : Legislativa,
+		"SUM(ex.Autorizado)" : 3743677172.8571777,
+		"SUM(ex.Pago)" : 740482637.1885376
+	},
+	{
+		"COD_PROGRAMA" : 0565,
+		"DES_PROGRAMA" : Prestação Jurisdicional do Supremo Tribunal Federal,
+		"NOM_FUNCAO" : Judiciária,
+		"SUM(ex.Autorizado)" : 435150407.1171875,
+		"SUM(ex.Pago)" : 88007376.36174774
+	},
+	{
+		"COD_PROGRAMA" : 0566,
+		"DES_PROGRAMA" : Prestação Jurisdicional Militar,
+		"NOM_FUNCAO" : Judiciária,
+		"SUM(ex.Autorizado)" : 259846795.25585938,
+		"SUM(ex.Pago)" : 57029427.76724243
+	},
+	{
+		"COD_PROGRAMA" : 0567,
+		"DES_PROGRAMA" : Prestação Jurisdicional no Distrito Federal,
+		"NOM_FUNCAO" : Judiciária,
+		"SUM(ex.Autorizado)" : 1931245513.3114014,
+		"SUM(ex.Pago)" : 473824202.1697998
+	},
+	{
+		"COD_PROGRAMA" : 0568,
+		"DES_PROGRAMA" : Prestação Jurisdicional no Superior Tribunal de Justiça,
+		"NOM_FUNCAO" : Judiciária,
+		"SUM(ex.Autorizado)" : 884771537.3515625,
+		"SUM(ex.Pago)" : 218427329.05581665
+	},
+	{
+		"COD_PROGRAMA" : 0569,
+		"DES_PROGRAMA" : Prestação Jurisdicional na Justiça Federal,
+		"NOM_FUNCAO" : Judiciária,
+		"SUM(ex.Autorizado)" : 8755529478.990688,
+		"SUM(ex.Pago)" : 2073137699.197956
+	},
+	{
+		"COD_PROGRAMA" : 0570,
+		"DES_PROGRAMA" : Gestão do Processo Eleitoral,
+		"NOM_FUNCAO" : Judiciária,
+		"SUM(ex.Autorizado)" : 5273918508.953151,
+		"SUM(ex.Pago)" : 982494979.8955383
+	},
+	{
+		"COD_PROGRAMA" : 0571,
+		"DES_PROGRAMA" : Prestação Jurisdicional Trabalhista,
+		"NOM_FUNCAO" : Judiciária,
+		"SUM(ex.Autorizado)" : 13472876986.458328,
+		"SUM(ex.Pago)" : 3198953233.225773
+	},
+	{
+		"COD_PROGRAMA" : 0581,
+		"DES_PROGRAMA" : Defesa da Ordem Jurídica,
+		"NOM_FUNCAO" : Essencial à Justiça,
+		"SUM(ex.Autorizado)" : 5073043397.226364,
+		"SUM(ex.Pago)" : 1179603362.2658463
+	},
+	{
+		"COD_PROGRAMA" : 0901,
+		"DES_PROGRAMA" : Operações Especiais: Cumprimento de Sentenças Judiciais,
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 30268866750.270245,
+		"SUM(ex.Pago)" : 2699095646.0144043
+	},
+	{
+		"COD_PROGRAMA" : 0902,
+		"DES_PROGRAMA" : Operações Especiais: Financiamentos com Retorno,
+		"NOM_FUNCAO" : Ciência e Tecnologia,
+		"SUM(ex.Autorizado)" : 909836012,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 0902,
+		"DES_PROGRAMA" : Operações Especiais: Financiamentos com Retorno,
+		"NOM_FUNCAO" : Defesa Nacional,
+		"SUM(ex.Autorizado)" : 210094576,
+		"SUM(ex.Pago)" : 29130749.5
+	},
+	{
+		"COD_PROGRAMA" : 0902,
+		"DES_PROGRAMA" : Operações Especiais: Financiamentos com Retorno,
+		"NOM_FUNCAO" : Educação,
+		"SUM(ex.Autorizado)" : 18204906592,
+		"SUM(ex.Pago)" : 1145238781.5
+	},
+	{
+		"COD_PROGRAMA" : 0902,
+		"DES_PROGRAMA" : Operações Especiais: Financiamentos com Retorno,
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 8540687360,
+		"SUM(ex.Pago)" : 1369764224
+	},
+	{
+		"COD_PROGRAMA" : 0902,
+		"DES_PROGRAMA" : Operações Especiais: Financiamentos com Retorno,
+		"NOM_FUNCAO" : Indústria,
+		"SUM(ex.Autorizado)" : 5541000,
+		"SUM(ex.Pago)" : 5535947.5
+	},
+	{
+		"COD_PROGRAMA" : 0902,
+		"DES_PROGRAMA" : Operações Especiais: Financiamentos com Retorno,
+		"NOM_FUNCAO" : Trabalho,
+		"SUM(ex.Autorizado)" : 16483834880,
+		"SUM(ex.Pago)" : 5193713664
+	},
+	{
+		"COD_PROGRAMA" : 0903,
+		"DES_PROGRAMA" : Operações Especiais: Transferências Constitucionais e as Decorrentes de Legislação Específica,
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 244598051367.39746,
+		"SUM(ex.Pago)" : 43247414964.00995
+	},
+	{
+		"COD_PROGRAMA" : 0905,
+		"DES_PROGRAMA" : Operações Especiais: Serviço da Dívida Interna (Juros e Amortizações),
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 452983326525,
+		"SUM(ex.Pago)" : 138980341133
+	},
+	{
+		"COD_PROGRAMA" : 0906,
+		"DES_PROGRAMA" : Operações Especiais: Serviço da Dívida Externa (Juros e Amortizações),
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 14691707052,
+		"SUM(ex.Pago)" : 4064372377.1796875
+	},
+	{
+		"COD_PROGRAMA" : 0907,
+		"DES_PROGRAMA" : Operações Especiais: Refinanciamento da Dívida Interna,
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 858288160768,
+		"SUM(ex.Pago)" : 303129591808
+	},
+	{
+		"COD_PROGRAMA" : 0908,
+		"DES_PROGRAMA" : Operações Especiais: Refinanciamento da Dívida Externa,
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 22944835584,
+		"SUM(ex.Pago)" : 3886700032
+	},
+	{
+		"COD_PROGRAMA" : 0909,
+		"DES_PROGRAMA" : Operações Especiais: Outros Encargos Especiais,
+		"NOM_FUNCAO" : Defesa Nacional,
+		"SUM(ex.Autorizado)" : 962038,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 0909,
+		"DES_PROGRAMA" : Operações Especiais: Outros Encargos Especiais,
+		"NOM_FUNCAO" : Educação,
+		"SUM(ex.Autorizado)" : 259896737,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 0909,
+		"DES_PROGRAMA" : Operações Especiais: Outros Encargos Especiais,
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 50981544926,
+		"SUM(ex.Pago)" : 12727520570
+	},
+	{
+		"COD_PROGRAMA" : 0909,
+		"DES_PROGRAMA" : Operações Especiais: Outros Encargos Especiais,
+		"NOM_FUNCAO" : Energia,
+		"SUM(ex.Autorizado)" : 36728517,
+		"SUM(ex.Pago)" : 3739875.75
+	},
+	{
+		"COD_PROGRAMA" : 0909,
+		"DES_PROGRAMA" : Operações Especiais: Outros Encargos Especiais,
+		"NOM_FUNCAO" : Previdência Social,
+		"SUM(ex.Autorizado)" : 2210999427.9746094,
+		"SUM(ex.Pago)" : 474290436.84207344
+	},
+	{
+		"COD_PROGRAMA" : 0909,
+		"DES_PROGRAMA" : Operações Especiais: Outros Encargos Especiais,
+		"NOM_FUNCAO" : Saúde,
+		"SUM(ex.Autorizado)" : 180048640,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 0909,
+		"DES_PROGRAMA" : Operações Especiais: Outros Encargos Especiais,
+		"NOM_FUNCAO" : Transporte,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 0910,
+		"DES_PROGRAMA" : Operações Especiais: Gestão da Participação em Organismos e Entidades Nacionais e Internacionais,
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 415319283.02285004,
+		"SUM(ex.Pago)" : 69050464.00331879
+	},
+	{
+		"COD_PROGRAMA" : 0911,
+		"DES_PROGRAMA" : Operações Especiais - Remuneração de Agentes Financeiros,
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 534203227,
+		"SUM(ex.Pago)" : 50202204
+	},
+	{
+		"COD_PROGRAMA" : 0913,
+		"DES_PROGRAMA" : Operações Especiais - Integralização de Cotas em Organismos Financeiros Internacionais,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 0913,
+		"DES_PROGRAMA" : Operações Especiais - Integralização de Cotas em Organismos Financeiros Internacionais,
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 1159960204,
+		"SUM(ex.Pago)" : 610042862
+	},
+	{
+		"COD_PROGRAMA" : 0999,
+		"DES_PROGRAMA" : Reserva de Contingência,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 2558553523,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 0999,
+		"DES_PROGRAMA" : Reserva de Contingência,
+		"NOM_FUNCAO" : Reserva de Contingência,
+		"SUM(ex.Autorizado)" : 79556781929,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 1389,
+		"DES_PROGRAMA" : Controle da Atuação Administrativa e Financeira no Poder Judiciário,
+		"NOM_FUNCAO" : Judiciária,
+		"SUM(ex.Autorizado)" : 218616979.18395996,
+		"SUM(ex.Pago)" : 21022565.78857422
+	},
+	{
+		"COD_PROGRAMA" : 2012,
+		"DES_PROGRAMA" : Fortalecimento e Dinamização da Agricultura Familiar,
+		"NOM_FUNCAO" : Agricultura,
+		"SUM(ex.Autorizado)" : 6486074957.200195,
+		"SUM(ex.Pago)" : 1928893927.8876953
+	},
+	{
+		"COD_PROGRAMA" : 2012,
+		"DES_PROGRAMA" : Fortalecimento e Dinamização da Agricultura Familiar,
+		"NOM_FUNCAO" : Assistência Social,
+		"SUM(ex.Autorizado)" : 133061508,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2012,
+		"DES_PROGRAMA" : Fortalecimento e Dinamização da Agricultura Familiar,
+		"NOM_FUNCAO" : Organização Agrária,
+		"SUM(ex.Autorizado)" : 1056631539.6586914,
+		"SUM(ex.Pago)" : 284857794.43847656
+	},
+	{
+		"COD_PROGRAMA" : 2013,
+		"DES_PROGRAMA" : Agricultura Irrigada,
+		"NOM_FUNCAO" : Agricultura,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2013,
+		"DES_PROGRAMA" : Agricultura Irrigada,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2014,
+		"DES_PROGRAMA" : Agropecuária Sustentável, Abastecimento e Comercialização,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2014,
+		"DES_PROGRAMA" : Agropecuária Sustentável, Abastecimento e Comercialização,
+		"NOM_FUNCAO" : Agricultura,
+		"SUM(ex.Autorizado)" : 145000000,
+		"SUM(ex.Pago)" : 138145424
+	},
+	{
+		"COD_PROGRAMA" : 2015,
+		"DES_PROGRAMA" : Fortalecimento do Sistema Único de Saúde (SUS),
+		"NOM_FUNCAO" : Educação,
+		"SUM(ex.Autorizado)" : 1000000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2015,
+		"DES_PROGRAMA" : Fortalecimento do Sistema Único de Saúde (SUS),
+		"NOM_FUNCAO" : Saúde,
+		"SUM(ex.Autorizado)" : 95664289072.63074,
+		"SUM(ex.Pago)" : 18824262823.369247
+	},
+	{
+		"COD_PROGRAMA" : 2016,
+		"DES_PROGRAMA" : Políticas para as Mulheres: Promoção da Igualdade e Enfrentamento à Violência,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 132316937.890625,
+		"SUM(ex.Pago)" : 3688018.629760742
+	},
+	{
+		"COD_PROGRAMA" : 2017,
+		"DES_PROGRAMA" : Aviação Civil,
+		"NOM_FUNCAO" : Transporte,
+		"SUM(ex.Autorizado)" : 378629685.83974457,
+		"SUM(ex.Pago)" : 3483903.8895492554
+	},
+	{
+		"COD_PROGRAMA" : 2018,
+		"DES_PROGRAMA" : Biodiversidade,
+		"NOM_FUNCAO" : Ciência e Tecnologia,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2018,
+		"DES_PROGRAMA" : Biodiversidade,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2018,
+		"DES_PROGRAMA" : Biodiversidade,
+		"NOM_FUNCAO" : Organização Agrária,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2019,
+		"DES_PROGRAMA" : Inclusão social por meio do Bolsa Família, do Cadastro Único e da articulação de políticas sociais,
+		"NOM_FUNCAO" : Assistência Social,
+		"SUM(ex.Autorizado)" : 28986441659.875,
+		"SUM(ex.Pago)" : 6589999936
+	},
+	{
+		"COD_PROGRAMA" : 2020,
+		"DES_PROGRAMA" : Cidadania e Justiça,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2020,
+		"DES_PROGRAMA" : Cidadania e Justiça,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2020,
+		"DES_PROGRAMA" : Cidadania e Justiça,
+		"NOM_FUNCAO" : Essencial à Justiça,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2021,
+		"DES_PROGRAMA" : Ciência, Tecnologia e Inovação,
+		"NOM_FUNCAO" : Ciência e Tecnologia,
+		"SUM(ex.Autorizado)" : 3357860783.890358,
+		"SUM(ex.Pago)" : 277843947.5508652
+	},
+	{
+		"COD_PROGRAMA" : 2021,
+		"DES_PROGRAMA" : Ciência, Tecnologia e Inovação,
+		"NOM_FUNCAO" : Comunicações,
+		"SUM(ex.Autorizado)" : 100000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2021,
+		"DES_PROGRAMA" : Ciência, Tecnologia e Inovação,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 1696962.9608764648,
+		"SUM(ex.Pago)" : 17753.4609375
+	},
+	{
+		"COD_PROGRAMA" : 2022,
+		"DES_PROGRAMA" : Combustíveis,
+		"NOM_FUNCAO" : Energia,
+		"SUM(ex.Autorizado)" : 117649223.5703125,
+		"SUM(ex.Pago)" : 30396011.7109375
+	},
+	{
+		"COD_PROGRAMA" : 2023,
+		"DES_PROGRAMA" : Comércio e Serviços,
+		"NOM_FUNCAO" : Comércio e Serviços,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2024,
+		"DES_PROGRAMA" : Comércio Exterior,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 2070000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2024,
+		"DES_PROGRAMA" : Comércio Exterior,
+		"NOM_FUNCAO" : Comércio e Serviços,
+		"SUM(ex.Autorizado)" : 4396010558.059692,
+		"SUM(ex.Pago)" : 656149664.3748627
+	},
+	{
+		"COD_PROGRAMA" : 2025,
+		"DES_PROGRAMA" : Comunicações para o Desenvolvimento, a Inclusão e a Democracia,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2025,
+		"DES_PROGRAMA" : Comunicações para o Desenvolvimento, a Inclusão e a Democracia,
+		"NOM_FUNCAO" : Ciência e Tecnologia,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2025,
+		"DES_PROGRAMA" : Comunicações para o Desenvolvimento, a Inclusão e a Democracia,
+		"NOM_FUNCAO" : Comunicações,
+		"SUM(ex.Autorizado)" : 524615786.8378906,
+		"SUM(ex.Pago)" : 8191027.827880859
+	},
+	{
+		"COD_PROGRAMA" : 2026,
+		"DES_PROGRAMA" : Conservação e Gestão de Recursos Hídricos,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2027,
+		"DES_PROGRAMA" : Cultura: dimensão essencial do Desenvolvimento,
+		"NOM_FUNCAO" : Cultura,
+		"SUM(ex.Autorizado)" : 1463809287.2851753,
+		"SUM(ex.Pago)" : 14051337.521503448
+	},
+	{
+		"COD_PROGRAMA" : 2028,
+		"DES_PROGRAMA" : Defesa Agropecuária,
+		"NOM_FUNCAO" : Agricultura,
+		"SUM(ex.Autorizado)" : 235145687.3203125,
+		"SUM(ex.Pago)" : 11349693.197868347
+	},
+	{
+		"COD_PROGRAMA" : 2029,
+		"DES_PROGRAMA" : Desenvolvimento Regional e Territorial,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 12917063,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2029,
+		"DES_PROGRAMA" : Desenvolvimento Regional e Territorial,
+		"NOM_FUNCAO" : Agricultura,
+		"SUM(ex.Autorizado)" : 86760118.97021484,
+		"SUM(ex.Pago)" : 20132.580078125
+	},
+	{
+		"COD_PROGRAMA" : 2029,
+		"DES_PROGRAMA" : Desenvolvimento Regional e Territorial,
+		"NOM_FUNCAO" : Assistência Social,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2029,
+		"DES_PROGRAMA" : Desenvolvimento Regional e Territorial,
+		"NOM_FUNCAO" : Ciência e Tecnologia,
+		"SUM(ex.Autorizado)" : 151327468,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2029,
+		"DES_PROGRAMA" : Desenvolvimento Regional e Territorial,
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 4522848401.1,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2029,
+		"DES_PROGRAMA" : Desenvolvimento Regional e Territorial,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 1850000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2029,
+		"DES_PROGRAMA" : Desenvolvimento Regional e Territorial,
+		"NOM_FUNCAO" : Indústria,
+		"SUM(ex.Autorizado)" : 195372343,
+		"SUM(ex.Pago)" : 1470969.275024414
+	},
+	{
+		"COD_PROGRAMA" : 2029,
+		"DES_PROGRAMA" : Desenvolvimento Regional e Territorial,
+		"NOM_FUNCAO" : Organização Agrária,
+		"SUM(ex.Autorizado)" : 165171895.00500488,
+		"SUM(ex.Pago)" : 343345.27529907227
+	},
+	{
+		"COD_PROGRAMA" : 2029,
+		"DES_PROGRAMA" : Desenvolvimento Regional e Territorial,
+		"NOM_FUNCAO" : Trabalho,
+		"SUM(ex.Autorizado)" : 960000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2029,
+		"DES_PROGRAMA" : Desenvolvimento Regional e Territorial,
+		"NOM_FUNCAO" : Transporte,
+		"SUM(ex.Autorizado)" : 3962038,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2029,
+		"DES_PROGRAMA" : Desenvolvimento Regional e Territorial,
+		"NOM_FUNCAO" : Urbanismo,
+		"SUM(ex.Autorizado)" : 440290683,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2030,
+		"DES_PROGRAMA" : Educação Básica,
+		"NOM_FUNCAO" : Assistência Social,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2030,
+		"DES_PROGRAMA" : Educação Básica,
+		"NOM_FUNCAO" : Educação,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2031,
+		"DES_PROGRAMA" : Educação Profissional e Tecnológica,
+		"NOM_FUNCAO" : Educação,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2032,
+		"DES_PROGRAMA" : Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2032,
+		"DES_PROGRAMA" : Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão,
+		"NOM_FUNCAO" : Educação,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2032,
+		"DES_PROGRAMA" : Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2033,
+		"DES_PROGRAMA" : Energia Elétrica,
+		"NOM_FUNCAO" : Energia,
+		"SUM(ex.Autorizado)" : 187883147.62182617,
+		"SUM(ex.Pago)" : 78507000.02832794
+	},
+	{
+		"COD_PROGRAMA" : 2034,
+		"DES_PROGRAMA" : Promoção da Igualdade Racial e Superação do Racismo,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 35257692.01953125,
+		"SUM(ex.Pago)" : 132497.6416015625
+	},
+	{
+		"COD_PROGRAMA" : 2034,
+		"DES_PROGRAMA" : Promoção da Igualdade Racial e Superação do Racismo,
+		"NOM_FUNCAO" : Organização Agrária,
+		"SUM(ex.Autorizado)" : 9614398.115234375,
+		"SUM(ex.Pago)" : 194109.96221923828
+	},
+	{
+		"COD_PROGRAMA" : 2035,
+		"DES_PROGRAMA" : Esporte, Cidadania e Desenvolvimento,
+		"NOM_FUNCAO" : Desporto e Lazer,
+		"SUM(ex.Autorizado)" : 1665189944.3064034,
+		"SUM(ex.Pago)" : 18343449.260055542
+	},
+	{
+		"COD_PROGRAMA" : 2036,
+		"DES_PROGRAMA" : Florestas, Prevenção e Controle do Desmatamento e dos Incêndios,
+		"NOM_FUNCAO" : Ciência e Tecnologia,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2036,
+		"DES_PROGRAMA" : Florestas, Prevenção e Controle do Desmatamento e dos Incêndios,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2037,
+		"DES_PROGRAMA" : Consolidação do Sistema Único de Assistência Social (SUAS),
+		"NOM_FUNCAO" : Assistência Social,
+		"SUM(ex.Autorizado)" : 47220733404.09863,
+		"SUM(ex.Pago)" : 11774562859.139847
+	},
+	{
+		"COD_PROGRAMA" : 2038,
+		"DES_PROGRAMA" : Democracia e Aperfeiçoamento da Gestão Pública,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 818953239.0018616,
+		"SUM(ex.Pago)" : 25905884.318294525
+	},
+	{
+		"COD_PROGRAMA" : 2038,
+		"DES_PROGRAMA" : Democracia e Aperfeiçoamento da Gestão Pública,
+		"NOM_FUNCAO" : Essencial à Justiça,
+		"SUM(ex.Autorizado)" : 23459595.33984375,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2038,
+		"DES_PROGRAMA" : Democracia e Aperfeiçoamento da Gestão Pública,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 132400,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2039,
+		"DES_PROGRAMA" : Gestão da Política Econômica, Garantia da Estabilidade do Sistema Financeiro Nacional e Melhoria do Ambiente d,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 484684812.80200195,
+		"SUM(ex.Pago)" : 38964399.89575195
+	},
+	{
+		"COD_PROGRAMA" : 2040,
+		"DES_PROGRAMA" : Gestão de Riscos e de Desastres,
+		"NOM_FUNCAO" : Ciência e Tecnologia,
+		"SUM(ex.Autorizado)" : 23753210.818359375,
+		"SUM(ex.Pago)" : 950814.4653320312
+	},
+	{
+		"COD_PROGRAMA" : 2040,
+		"DES_PROGRAMA" : Gestão de Riscos e de Desastres,
+		"NOM_FUNCAO" : Defesa Nacional,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2040,
+		"DES_PROGRAMA" : Gestão de Riscos e de Desastres,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 107481388,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2040,
+		"DES_PROGRAMA" : Gestão de Riscos e de Desastres,
+		"NOM_FUNCAO" : Indústria,
+		"SUM(ex.Autorizado)" : 9600326.832298279,
+		"SUM(ex.Pago)" : 151115.84143066406
+	},
+	{
+		"COD_PROGRAMA" : 2040,
+		"DES_PROGRAMA" : Gestão de Riscos e de Desastres,
+		"NOM_FUNCAO" : Saneamento,
+		"SUM(ex.Autorizado)" : 128975882.96875,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2040,
+		"DES_PROGRAMA" : Gestão de Riscos e de Desastres,
+		"NOM_FUNCAO" : Segurança Pública,
+		"SUM(ex.Autorizado)" : 661735810.4375,
+		"SUM(ex.Pago)" : 45459471.121601105
+	},
+	{
+		"COD_PROGRAMA" : 2040,
+		"DES_PROGRAMA" : Gestão de Riscos e de Desastres,
+		"NOM_FUNCAO" : Urbanismo,
+		"SUM(ex.Autorizado)" : 31587292,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2041,
+		"DES_PROGRAMA" : Geologia, Mineração e Transformação Mineral,
+		"NOM_FUNCAO" : Ciência e Tecnologia,
+		"SUM(ex.Autorizado)" : 4690862.083496094,
+		"SUM(ex.Pago)" : 1126820.4122924805
+	},
+	{
+		"COD_PROGRAMA" : 2041,
+		"DES_PROGRAMA" : Geologia, Mineração e Transformação Mineral,
+		"NOM_FUNCAO" : Indústria,
+		"SUM(ex.Autorizado)" : 51207092.329559326,
+		"SUM(ex.Pago)" : 1086333.2478381991
+	},
+	{
+		"COD_PROGRAMA" : 2042,
+		"DES_PROGRAMA" : Pesquisa e Inovações para a Agropecuária,
+		"NOM_FUNCAO" : Agricultura,
+		"SUM(ex.Autorizado)" : 412069333.54556364,
+		"SUM(ex.Pago)" : 23224231.957650125
+	},
+	{
+		"COD_PROGRAMA" : 2044,
+		"DES_PROGRAMA" : Promoção dos Direitos da Juventude,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 21702825,
+		"SUM(ex.Pago)" : 72984.37133789062
+	},
+	{
+		"COD_PROGRAMA" : 2044,
+		"DES_PROGRAMA" : Promoção dos Direitos da Juventude,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 2000000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2044,
+		"DES_PROGRAMA" : Promoção dos Direitos da Juventude,
+		"NOM_FUNCAO" : Trabalho,
+		"SUM(ex.Autorizado)" : 399999.990234375,
+		"SUM(ex.Pago)" : 6610.240234375
+	},
+	{
+		"COD_PROGRAMA" : 2045,
+		"DES_PROGRAMA" : Licenciamento e Qualidade Ambiental,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2046,
+		"DES_PROGRAMA" : Oceanos, Zona Costeira e Antártica,
+		"NOM_FUNCAO" : Ciência e Tecnologia,
+		"SUM(ex.Autorizado)" : 462165,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2046,
+		"DES_PROGRAMA" : Oceanos, Zona Costeira e Antártica,
+		"NOM_FUNCAO" : Defesa Nacional,
+		"SUM(ex.Autorizado)" : 155691199.9923706,
+		"SUM(ex.Pago)" : 100237.203125
+	},
+	{
+		"COD_PROGRAMA" : 2046,
+		"DES_PROGRAMA" : Oceanos, Zona Costeira e Antártica,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 627679,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2046,
+		"DES_PROGRAMA" : Oceanos, Zona Costeira e Antártica,
+		"NOM_FUNCAO" : Indústria,
+		"SUM(ex.Autorizado)" : 10559379.98953247,
+		"SUM(ex.Pago)" : 16283.3095703125
+	},
+	{
+		"COD_PROGRAMA" : 2047,
+		"DES_PROGRAMA" : Simplificação da Vida da Empresa e do Cidadão: Bem Mais Simples Brasil,
+		"NOM_FUNCAO" : Comércio e Serviços,
+		"SUM(ex.Autorizado)" : 74538170,
+		"SUM(ex.Pago)" : 42481.0703125
+	},
+	{
+		"COD_PROGRAMA" : 2047,
+		"DES_PROGRAMA" : Simplificação da Vida da Empresa e do Cidadão: Bem Mais Simples Brasil,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 500000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2047,
+		"DES_PROGRAMA" : Simplificação da Vida da Empresa e do Cidadão: Bem Mais Simples Brasil,
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 2960539.9375,
+		"SUM(ex.Pago)" : 439376.1875
+	},
+	{
+		"COD_PROGRAMA" : 2047,
+		"DES_PROGRAMA" : Simplificação da Vida da Empresa e do Cidadão: Bem Mais Simples Brasil,
+		"NOM_FUNCAO" : Indústria,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2048,
+		"DES_PROGRAMA" : Mobilidade Urbana e Trânsito,
+		"NOM_FUNCAO" : Urbanismo,
+		"SUM(ex.Autorizado)" : 1001196780.6054688,
+		"SUM(ex.Pago)" : 22653.640625
+	},
+	{
+		"COD_PROGRAMA" : 2049,
+		"DES_PROGRAMA" : Moradia Digna,
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 6918995365,
+		"SUM(ex.Pago)" : 684988890.125
+	},
+	{
+		"COD_PROGRAMA" : 2049,
+		"DES_PROGRAMA" : Moradia Digna,
+		"NOM_FUNCAO" : Habitação,
+		"SUM(ex.Autorizado)" : 26833638,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2049,
+		"DES_PROGRAMA" : Moradia Digna,
+		"NOM_FUNCAO" : Urbanismo,
+		"SUM(ex.Autorizado)" : 152067567,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2050,
+		"DES_PROGRAMA" : Mudança do Clima,
+		"NOM_FUNCAO" : Ciência e Tecnologia,
+		"SUM(ex.Autorizado)" : 24102938.1796875,
+		"SUM(ex.Pago)" : 1563881.8256835938
+	},
+	{
+		"COD_PROGRAMA" : 2050,
+		"DES_PROGRAMA" : Mudança do Clima,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 437143707.2265625,
+		"SUM(ex.Pago)" : 2500657.473754883
+	},
+	{
+		"COD_PROGRAMA" : 2051,
+		"DES_PROGRAMA" : Oferta de Água,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2052,
+		"DES_PROGRAMA" : Pesca e Aquicultura,
+		"NOM_FUNCAO" : Agricultura,
+		"SUM(ex.Autorizado)" : 88904246.13568115,
+		"SUM(ex.Pago)" : 1349517.046798706
+	},
+	{
+		"COD_PROGRAMA" : 2053,
+		"DES_PROGRAMA" : Petróleo e Gás,
+		"NOM_FUNCAO" : Energia,
+		"SUM(ex.Autorizado)" : 112365871.81030273,
+		"SUM(ex.Pago)" : 4779981.640380859
+	},
+	{
+		"COD_PROGRAMA" : 2054,
+		"DES_PROGRAMA" : Planejamento Urbano,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 100000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2054,
+		"DES_PROGRAMA" : Planejamento Urbano,
+		"NOM_FUNCAO" : Urbanismo,
+		"SUM(ex.Autorizado)" : 1907408572,
+		"SUM(ex.Pago)" : 142859.4814453125
+	},
+	{
+		"COD_PROGRAMA" : 2055,
+		"DES_PROGRAMA" : Desenvolvimento Produtivo,
+		"NOM_FUNCAO" : Ciência e Tecnologia,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2055,
+		"DES_PROGRAMA" : Desenvolvimento Produtivo,
+		"NOM_FUNCAO" : Defesa Nacional,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2055,
+		"DES_PROGRAMA" : Desenvolvimento Produtivo,
+		"NOM_FUNCAO" : Educação,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2055,
+		"DES_PROGRAMA" : Desenvolvimento Produtivo,
+		"NOM_FUNCAO" : Indústria,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2055,
+		"DES_PROGRAMA" : Desenvolvimento Produtivo,
+		"NOM_FUNCAO" : Saúde,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2055,
+		"DES_PROGRAMA" : Desenvolvimento Produtivo,
+		"NOM_FUNCAO" : Transporte,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2056,
+		"DES_PROGRAMA" : Política Espacial,
+		"NOM_FUNCAO" : Ciência e Tecnologia,
+		"SUM(ex.Autorizado)" : 183828707.930542,
+		"SUM(ex.Pago)" : 2286399.5627441406
+	},
+	{
+		"COD_PROGRAMA" : 2057,
+		"DES_PROGRAMA" : Política Externa,
+		"NOM_FUNCAO" : Defesa Nacional,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2057,
+		"DES_PROGRAMA" : Política Externa,
+		"NOM_FUNCAO" : Relações Exteriores,
+		"SUM(ex.Autorizado)" : 14490249.07421875,
+		"SUM(ex.Pago)" : 2939990.002685547
+	},
+	{
+		"COD_PROGRAMA" : 2058,
+		"DES_PROGRAMA" : Defesa Nacional,
+		"NOM_FUNCAO" : Defesa Nacional,
+		"SUM(ex.Autorizado)" : 11688090059.86647,
+		"SUM(ex.Pago)" : 344397696.143522
+	},
+	{
+		"COD_PROGRAMA" : 2059,
+		"DES_PROGRAMA" : Política Nuclear,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 476963,
+		"SUM(ex.Pago)" : 13967.780029296875
+	},
+	{
+		"COD_PROGRAMA" : 2059,
+		"DES_PROGRAMA" : Política Nuclear,
+		"NOM_FUNCAO" : Ciência e Tecnologia,
+		"SUM(ex.Autorizado)" : 765916611.6799316,
+		"SUM(ex.Pago)" : 54085824.28825092
+	},
+	{
+		"COD_PROGRAMA" : 2060,
+		"DES_PROGRAMA" : Coordenação de Políticas de Prevenção, Atenção e Reinserção Social de Usuários de Crack, Álcool e outras Droga,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2061,
+		"DES_PROGRAMA" : Previdência Social,
+		"NOM_FUNCAO" : Previdência Social,
+		"SUM(ex.Autorizado)" : 481699529379.5763,
+		"SUM(ex.Pago)" : 106630890063.87935
+	},
+	{
+		"COD_PROGRAMA" : 2062,
+		"DES_PROGRAMA" : Promoção, Proteção e Defesa dos Direitos Humanos de Crianças e Adolescentes,
+		"NOM_FUNCAO" : Assistência Social,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2062,
+		"DES_PROGRAMA" : Promoção, Proteção e Defesa dos Direitos Humanos de Crianças e Adolescentes,
+		"NOM_FUNCAO" : Comércio e Serviços,
+		"SUM(ex.Autorizado)" : 50000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2062,
+		"DES_PROGRAMA" : Promoção, Proteção e Defesa dos Direitos Humanos de Crianças e Adolescentes,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 79961421,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2063,
+		"DES_PROGRAMA" : Promoção e Defesa dos Direitos de Pessoas com Deficiência,
+		"NOM_FUNCAO" : Assistência Social,
+		"SUM(ex.Autorizado)" : 15000000,
+		"SUM(ex.Pago)" : 2310412.75
+	},
+	{
+		"COD_PROGRAMA" : 2063,
+		"DES_PROGRAMA" : Promoção e Defesa dos Direitos de Pessoas com Deficiência,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 6074831,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2064,
+		"DES_PROGRAMA" : Promoção e Defesa dos Direitos Humanos,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2064,
+		"DES_PROGRAMA" : Promoção e Defesa dos Direitos Humanos,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 82668292,
+		"SUM(ex.Pago)" : 2196295.25
+	},
+	{
+		"COD_PROGRAMA" : 2064,
+		"DES_PROGRAMA" : Promoção e Defesa dos Direitos Humanos,
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 5300000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2065,
+		"DES_PROGRAMA" : Proteção e Promoção dos Direitos dos Povos Indígenas,
+		"NOM_FUNCAO" : Cultura,
+		"SUM(ex.Autorizado)" : 4151873,
+		"SUM(ex.Pago)" : 30024.919921875
+	},
+	{
+		"COD_PROGRAMA" : 2065,
+		"DES_PROGRAMA" : Proteção e Promoção dos Direitos dos Povos Indígenas,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 45696760.84375,
+		"SUM(ex.Pago)" : 2298439.880428314
+	},
+	{
+		"COD_PROGRAMA" : 2065,
+		"DES_PROGRAMA" : Proteção e Promoção dos Direitos dos Povos Indígenas,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 200000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2065,
+		"DES_PROGRAMA" : Proteção e Promoção dos Direitos dos Povos Indígenas,
+		"NOM_FUNCAO" : Saúde,
+		"SUM(ex.Autorizado)" : 1491129997.222412,
+		"SUM(ex.Pago)" : 229640268.55688477
+	},
+	{
+		"COD_PROGRAMA" : 2066,
+		"DES_PROGRAMA" : Reforma Agrária e Governança Fundiária,
+		"NOM_FUNCAO" : Organização Agrária,
+		"SUM(ex.Autorizado)" : 1940101645.9951172,
+		"SUM(ex.Pago)" : 41881524.85076904
+	},
+	{
+		"COD_PROGRAMA" : 2067,
+		"DES_PROGRAMA" : Resíduos Sólidos,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2067,
+		"DES_PROGRAMA" : Resíduos Sólidos,
+		"NOM_FUNCAO" : Saúde,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2067,
+		"DES_PROGRAMA" : Resíduos Sólidos,
+		"NOM_FUNCAO" : Trabalho,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2068,
+		"DES_PROGRAMA" : Saneamento Básico,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 7259651,
+		"SUM(ex.Pago)" : 4771.080078125
+	},
+	{
+		"COD_PROGRAMA" : 2068,
+		"DES_PROGRAMA" : Saneamento Básico,
+		"NOM_FUNCAO" : Saneamento,
+		"SUM(ex.Autorizado)" : 507213636.973114,
+		"SUM(ex.Pago)" : 137317.43942260742
+	},
+	{
+		"COD_PROGRAMA" : 2068,
+		"DES_PROGRAMA" : Saneamento Básico,
+		"NOM_FUNCAO" : Saúde,
+		"SUM(ex.Autorizado)" : 695768735.65625,
+		"SUM(ex.Pago)" : 13709860.03125
+	},
+	{
+		"COD_PROGRAMA" : 2069,
+		"DES_PROGRAMA" : Segurança Alimentar e Nutricional,
+		"NOM_FUNCAO" : Agricultura,
+		"SUM(ex.Autorizado)" : 14900000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2069,
+		"DES_PROGRAMA" : Segurança Alimentar e Nutricional,
+		"NOM_FUNCAO" : Assistência Social,
+		"SUM(ex.Autorizado)" : 674180315.046875,
+		"SUM(ex.Pago)" : 1198384.0081176758
+	},
+	{
+		"COD_PROGRAMA" : 2069,
+		"DES_PROGRAMA" : Segurança Alimentar e Nutricional,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 186807493,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2069,
+		"DES_PROGRAMA" : Segurança Alimentar e Nutricional,
+		"NOM_FUNCAO" : Organização Agrária,
+		"SUM(ex.Autorizado)" : 17102753,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2069,
+		"DES_PROGRAMA" : Segurança Alimentar e Nutricional,
+		"NOM_FUNCAO" : Saúde,
+		"SUM(ex.Autorizado)" : 42700000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2070,
+		"DES_PROGRAMA" : Segurança Pública com Cidadania,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2070,
+		"DES_PROGRAMA" : Segurança Pública com Cidadania,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2070,
+		"DES_PROGRAMA" : Segurança Pública com Cidadania,
+		"NOM_FUNCAO" : Segurança Pública,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2071,
+		"DES_PROGRAMA" : Promoção do Trabalho Decente e Economia Solidária,
+		"NOM_FUNCAO" : Assistência Social,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2071,
+		"DES_PROGRAMA" : Promoção do Trabalho Decente e Economia Solidária,
+		"NOM_FUNCAO" : Trabalho,
+		"SUM(ex.Autorizado)" : 55677296226.075195,
+		"SUM(ex.Pago)" : 17155686629.216381
+	},
+	{
+		"COD_PROGRAMA" : 2072,
+		"DES_PROGRAMA" : Transporte Ferroviário,
+		"NOM_FUNCAO" : Transporte,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2073,
+		"DES_PROGRAMA" : Transporte Hidroviário,
+		"NOM_FUNCAO" : Transporte,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2074,
+		"DES_PROGRAMA" : Transporte Marítimo,
+		"NOM_FUNCAO" : Transporte,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2075,
+		"DES_PROGRAMA" : Transporte Rodoviário,
+		"NOM_FUNCAO" : Transporte,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2076,
+		"DES_PROGRAMA" : Desenvolvimento e Promoção do Turismo,
+		"NOM_FUNCAO" : Comércio e Serviços,
+		"SUM(ex.Autorizado)" : 844397046.6766968,
+		"SUM(ex.Pago)" : 4022212.7154541016
+	},
+	{
+		"COD_PROGRAMA" : 2077,
+		"DES_PROGRAMA" : Agropecuária Sustentável,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 2000000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2077,
+		"DES_PROGRAMA" : Agropecuária Sustentável,
+		"NOM_FUNCAO" : Agricultura,
+		"SUM(ex.Autorizado)" : 16647152710.952148,
+		"SUM(ex.Pago)" : 2265819539.799078
+	},
+	{
+		"COD_PROGRAMA" : 2077,
+		"DES_PROGRAMA" : Agropecuária Sustentável,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 900000,
+		"SUM(ex.Pago)" : 34117.98046875
+	},
+	{
+		"COD_PROGRAMA" : 2078,
+		"DES_PROGRAMA" : Conservação e Uso Sustentável da Biodiversidade,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 355161056.9527283,
+		"SUM(ex.Pago)" : 28322585.997528076
+	},
+	{
+		"COD_PROGRAMA" : 2079,
+		"DES_PROGRAMA" : Desenvolvimento da Indústria, Comércio e Serviços,
+		"NOM_FUNCAO" : Indústria,
+		"SUM(ex.Autorizado)" : 579412247.5716553,
+		"SUM(ex.Pago)" : 62008189.95082092
+	},
+	{
+		"COD_PROGRAMA" : 2080,
+		"DES_PROGRAMA" : Educação de qualidade para todos,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 1460832.9709472656,
+		"SUM(ex.Pago)" : 111689.56787109375
+	},
+	{
+		"COD_PROGRAMA" : 2080,
+		"DES_PROGRAMA" : Educação de qualidade para todos,
+		"NOM_FUNCAO" : Assistência Social,
+		"SUM(ex.Autorizado)" : 344250112,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2080,
+		"DES_PROGRAMA" : Educação de qualidade para todos,
+		"NOM_FUNCAO" : Educação,
+		"SUM(ex.Autorizado)" : 46540024461.88759,
+		"SUM(ex.Pago)" : 4950432264.004026
+	},
+	{
+		"COD_PROGRAMA" : 2080,
+		"DES_PROGRAMA" : Educação de qualidade para todos,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 996382,
+		"SUM(ex.Pago)" : 2132.4500122070312
+	},
+	{
+		"COD_PROGRAMA" : 2081,
+		"DES_PROGRAMA" : Justiça, Cidadania e Segurança Pública,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 98108502.55377197,
+		"SUM(ex.Pago)" : 9655521.44696045
+	},
+	{
+		"COD_PROGRAMA" : 2081,
+		"DES_PROGRAMA" : Justiça, Cidadania e Segurança Pública,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 353391094.8173828,
+		"SUM(ex.Pago)" : 6780881.680480957
+	},
+	{
+		"COD_PROGRAMA" : 2081,
+		"DES_PROGRAMA" : Justiça, Cidadania e Segurança Pública,
+		"NOM_FUNCAO" : Segurança Pública,
+		"SUM(ex.Autorizado)" : 1906694540.3636131,
+		"SUM(ex.Pago)" : 65922754.94104004
+	},
+	{
+		"COD_PROGRAMA" : 2082,
+		"DES_PROGRAMA" : Política Externa,
+		"NOM_FUNCAO" : Relações Exteriores,
+		"SUM(ex.Autorizado)" : 671822115.1018791,
+		"SUM(ex.Pago)" : 141874021.89059067
+	},
+	{
+		"COD_PROGRAMA" : 2083,
+		"DES_PROGRAMA" : Qualidade Ambiental,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 123655672.25125122,
+		"SUM(ex.Pago)" : 3562098.776397705
+	},
+	{
+		"COD_PROGRAMA" : 2083,
+		"DES_PROGRAMA" : Qualidade Ambiental,
+		"NOM_FUNCAO" : Saúde,
+		"SUM(ex.Autorizado)" : 1200000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2083,
+		"DES_PROGRAMA" : Qualidade Ambiental,
+		"NOM_FUNCAO" : Trabalho,
+		"SUM(ex.Autorizado)" : 12950000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2084,
+		"DES_PROGRAMA" : Recursos Hídricos,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 3712475942.988037,
+		"SUM(ex.Pago)" : 36756053.48370361
+	},
+	{
+		"COD_PROGRAMA" : 2084,
+		"DES_PROGRAMA" : Recursos Hídricos,
+		"NOM_FUNCAO" : Indústria,
+		"SUM(ex.Autorizado)" : 4603065.057861328,
+		"SUM(ex.Pago)" : 222905.31005859375
+	},
+	{
+		"COD_PROGRAMA" : 2085,
+		"DES_PROGRAMA" : Redução do impacto social do álcool e outras drogas: Prevenção, Cuidado e Reinserção Social,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 149345814.50683594,
+		"SUM(ex.Pago)" : 431172.04292297363
+	},
+	{
+		"COD_PROGRAMA" : 2086,
+		"DES_PROGRAMA" : Transporte Aquaviário,
+		"NOM_FUNCAO" : Transporte,
+		"SUM(ex.Autorizado)" : 5926018196.548218,
+		"SUM(ex.Pago)" : 152276087.31713867
+	},
+	{
+		"COD_PROGRAMA" : 2087,
+		"DES_PROGRAMA" : Transporte Terrestre,
+		"NOM_FUNCAO" : Transporte,
+		"SUM(ex.Autorizado)" : 8274296344.703757,
+		"SUM(ex.Pago)" : 22403566.069438934
+	},
+	{
+		"COD_PROGRAMA" : 2100,
+		"DES_PROGRAMA" : Aprimoramento do Ministério Público,
+		"NOM_FUNCAO" : Essencial à Justiça,
+		"SUM(ex.Autorizado)" : 75367529.6092186,
+		"SUM(ex.Pago)" : 14156141.925136566
+	},
+	{
+		"COD_PROGRAMA" : 2101,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção da Presidência da República,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 1166175247.8287659,
+		"SUM(ex.Pago)" : 251983280.98335266
+	},
+	{
+		"COD_PROGRAMA" : 2101,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção da Presidência da República,
+		"NOM_FUNCAO" : Comércio e Serviços,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2101,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção da Presidência da República,
+		"NOM_FUNCAO" : Comunicações,
+		"SUM(ex.Autorizado)" : 411470232.73934937,
+		"SUM(ex.Pago)" : 85059575.78414917
+	},
+	{
+		"COD_PROGRAMA" : 2101,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção da Presidência da República,
+		"NOM_FUNCAO" : Essencial à Justiça,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2101,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção da Presidência da República,
+		"NOM_FUNCAO" : Segurança Pública,
+		"SUM(ex.Autorizado)" : 342014877.9638672,
+		"SUM(ex.Pago)" : 75295106.65429688
+	},
+	{
+		"COD_PROGRAMA" : 2101,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção da Presidência da República,
+		"NOM_FUNCAO" : Transporte,
+		"SUM(ex.Autorizado)" : 635909143.0678155,
+		"SUM(ex.Pago)" : 147929275.56678772
+	},
+	{
+		"COD_PROGRAMA" : 2102,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção da Secretaria de Direitos Humanos,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : -0.03125,
+		"SUM(ex.Pago)" : 150070.078125
+	},
+	{
+		"COD_PROGRAMA" : 2103,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção da Secretaria de Políticas de Promoção da Igualdade Racial,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2104,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção da Secretaria de Políticas para as Mulheres,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2105,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério da Agricultura, Pecuária e Abastecimento,
+		"NOM_FUNCAO" : Agricultura,
+		"SUM(ex.Autorizado)" : 5551370469.40506,
+		"SUM(ex.Pago)" : 1144325812.4746876
+	},
+	{
+		"COD_PROGRAMA" : 2106,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério da Ciência, Tecnologia e Inovação,
+		"NOM_FUNCAO" : Ciência e Tecnologia,
+		"SUM(ex.Autorizado)" : 2215396433.0370865,
+		"SUM(ex.Pago)" : 477819257.35567474
+	},
+	{
+		"COD_PROGRAMA" : 2107,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério da Cultura,
+		"NOM_FUNCAO" : Cultura,
+		"SUM(ex.Autorizado)" : 721556255.1591797,
+		"SUM(ex.Pago)" : 139524908.4212265
+	},
+	{
+		"COD_PROGRAMA" : 2108,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério da Defesa,
+		"NOM_FUNCAO" : Defesa Nacional,
+		"SUM(ex.Autorizado)" : 47908496608.42238,
+		"SUM(ex.Pago)" : 10219658331.470749
+	},
+	{
+		"COD_PROGRAMA" : 2108,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério da Defesa,
+		"NOM_FUNCAO" : Relações Exteriores,
+		"SUM(ex.Autorizado)" : 157421693,
+		"SUM(ex.Pago)" : 37035010.625
+	},
+	{
+		"COD_PROGRAMA" : 2109,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério da Educação,
+		"NOM_FUNCAO" : Educação,
+		"SUM(ex.Autorizado)" : 38596318355.78073,
+		"SUM(ex.Pago)" : 9130268875.150486
+	},
+	{
+		"COD_PROGRAMA" : 2110,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério da Fazenda,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 12369312426.305353,
+		"SUM(ex.Pago)" : 2531423626.3275523
+	},
+	{
+		"COD_PROGRAMA" : 2111,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério da Integração Nacional,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 929987869.1465759,
+		"SUM(ex.Pago)" : 181665690.45388794
+	},
+	{
+		"COD_PROGRAMA" : 2111,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério da Integração Nacional,
+		"NOM_FUNCAO" : Transporte,
+		"SUM(ex.Autorizado)" : 1100000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2112,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério da Justiça,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 63591496,
+		"SUM(ex.Pago)" : 15343176.424804688
+	},
+	{
+		"COD_PROGRAMA" : 2112,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério da Justiça,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 413525553.2578125,
+		"SUM(ex.Pago)" : 87594390.64125824
+	},
+	{
+		"COD_PROGRAMA" : 2112,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério da Justiça,
+		"NOM_FUNCAO" : Essencial à Justiça,
+		"SUM(ex.Autorizado)" : 24348650,
+		"SUM(ex.Pago)" : 2444963.75
+	},
+	{
+		"COD_PROGRAMA" : 2112,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério da Justiça,
+		"NOM_FUNCAO" : Segurança Pública,
+		"SUM(ex.Autorizado)" : 6075930845.669434,
+		"SUM(ex.Pago)" : 1338494512.9378052
+	},
+	{
+		"COD_PROGRAMA" : 2113,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério da Pesca e Aquicultura,
+		"NOM_FUNCAO" : Agricultura,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2114,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério da Previdência Social,
+		"NOM_FUNCAO" : Previdência Social,
+		"SUM(ex.Autorizado)" : -0.0006103515625,
+		"SUM(ex.Pago)" : 33433.43981933594
+	},
+	{
+		"COD_PROGRAMA" : 2115,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério da Saúde,
+		"NOM_FUNCAO" : Saúde,
+		"SUM(ex.Autorizado)" : 11987388907.432037,
+		"SUM(ex.Pago)" : 2625476643.99699
+	},
+	{
+		"COD_PROGRAMA" : 2116,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério das Cidades,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 3351559.9951171875,
+		"SUM(ex.Pago)" : 902924.0131835938
+	},
+	{
+		"COD_PROGRAMA" : 2116,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério das Cidades,
+		"NOM_FUNCAO" : Habitação,
+		"SUM(ex.Autorizado)" : 800000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2116,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério das Cidades,
+		"NOM_FUNCAO" : Urbanismo,
+		"SUM(ex.Autorizado)" : 1079235084.4552612,
+		"SUM(ex.Pago)" : 207224290.21746826
+	},
+	{
+		"COD_PROGRAMA" : 2117,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério das Comunicações,
+		"NOM_FUNCAO" : Comunicações,
+		"SUM(ex.Autorizado)" : 547215695.8222656,
+		"SUM(ex.Pago)" : 115373578.36041021
+	},
+	{
+		"COD_PROGRAMA" : 2118,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério das Relações Exteriores,
+		"NOM_FUNCAO" : Relações Exteriores,
+		"SUM(ex.Autorizado)" : 2008722374.0761719,
+		"SUM(ex.Pago)" : 321964493.56887436
+	},
+	{
+		"COD_PROGRAMA" : 2119,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério de Minas e Energia,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 9477104,
+		"SUM(ex.Pago)" : 2743733.1484375
+	},
+	{
+		"COD_PROGRAMA" : 2119,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério de Minas e Energia,
+		"NOM_FUNCAO" : Energia,
+		"SUM(ex.Autorizado)" : 778948425.7769775,
+		"SUM(ex.Pago)" : 146924158.56419373
+	},
+	{
+		"COD_PROGRAMA" : 2119,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério de Minas e Energia,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 29259339.75,
+		"SUM(ex.Pago)" : 117870.1706161499
+	},
+	{
+		"COD_PROGRAMA" : 2119,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério de Minas e Energia,
+		"NOM_FUNCAO" : Indústria,
+		"SUM(ex.Autorizado)" : 667790439.3191528,
+		"SUM(ex.Pago)" : 145768920.91623306
+	},
+	{
+		"COD_PROGRAMA" : 2120,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério do Desenvolvimento Agrário,
+		"NOM_FUNCAO" : Organização Agrária,
+		"SUM(ex.Autorizado)" : 863608638.2365723,
+		"SUM(ex.Pago)" : 176830106.91186523
+	},
+	{
+		"COD_PROGRAMA" : 2121,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério do Desenvolvimento, Indústria e Comércio Exterior,
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 50000,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2121,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério do Desenvolvimento, Indústria e Comércio Exterior,
+		"NOM_FUNCAO" : Indústria,
+		"SUM(ex.Autorizado)" : 913051823.382164,
+		"SUM(ex.Pago)" : 165895161.9933319
+	},
+	{
+		"COD_PROGRAMA" : 2122,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério do Desenvolvimento Social e Combate à Fome,
+		"NOM_FUNCAO" : Assistência Social,
+		"SUM(ex.Autorizado)" : 192219684.3642578,
+		"SUM(ex.Pago)" : 34187662.36066437
+	},
+	{
+		"COD_PROGRAMA" : 2123,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério do Esporte,
+		"NOM_FUNCAO" : Desporto e Lazer,
+		"SUM(ex.Autorizado)" : 165719793.328125,
+		"SUM(ex.Pago)" : 13870610.761230469
+	},
+	{
+		"COD_PROGRAMA" : 2124,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério do Meio Ambiente,
+		"NOM_FUNCAO" : Gestão Ambiental,
+		"SUM(ex.Autorizado)" : 1452817795.3073404,
+		"SUM(ex.Pago)" : 308737666.6464615
+	},
+	{
+		"COD_PROGRAMA" : 2125,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério do Planejamento, Orçamento e Gestão,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 6054491813.320251,
+		"SUM(ex.Pago)" : 885688024.1868744
+	},
+	{
+		"COD_PROGRAMA" : 2125,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério do Planejamento, Orçamento e Gestão,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2125,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério do Planejamento, Orçamento e Gestão,
+		"NOM_FUNCAO" : Previdência Social,
+		"SUM(ex.Autorizado)" : 0,
+		"SUM(ex.Pago)" : 0
+	},
+	{
+		"COD_PROGRAMA" : 2126,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério dos Transportes,
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 17244719.001464844,
+		"SUM(ex.Pago)" : 1206987.9204101562
+	},
+	{
+		"COD_PROGRAMA" : 2126,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério dos Transportes,
+		"NOM_FUNCAO" : Transporte,
+		"SUM(ex.Autorizado)" : 2223285133.989645,
+		"SUM(ex.Pago)" : 295717195.66444683
+	},
+	{
+		"COD_PROGRAMA" : 2127,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério do Trabalho e Emprego,
+		"NOM_FUNCAO" : Trabalho,
+		"SUM(ex.Autorizado)" : 0.025360107421875,
+		"SUM(ex.Pago)" : 172969.99114990234
+	},
+	{
+		"COD_PROGRAMA" : 2128,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério do Turismo,
+		"NOM_FUNCAO" : Comércio e Serviços,
+		"SUM(ex.Autorizado)" : 118966339.51843262,
+		"SUM(ex.Pago)" : 18111631.23486328
+	},
+	{
+		"COD_PROGRAMA" : 2129,
+		"DES_PROGRAMA" : Prestação de Assistência Jurídica Gratuita pela Defensoria Pública da União,
+		"NOM_FUNCAO" : Essencial à Justiça,
+		"SUM(ex.Autorizado)" : 491045110.8422241,
+		"SUM(ex.Pago)" : 93701652.2062378
+	},
+	{
+		"COD_PROGRAMA" : 2130,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção da Advocacia-Geral da União,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 1870434076.0274963,
+		"SUM(ex.Pago)" : 448767253.04499817
+	},
+	{
+		"COD_PROGRAMA" : 2130,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção da Advocacia-Geral da União,
+		"NOM_FUNCAO" : Encargos Especiais,
+		"SUM(ex.Autorizado)" : 2000000.0625,
+		"SUM(ex.Pago)" : 374661.076171875
+	},
+	{
+		"COD_PROGRAMA" : 2130,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção da Advocacia-Geral da União,
+		"NOM_FUNCAO" : Essencial à Justiça,
+		"SUM(ex.Autorizado)" : 330732017.9456177,
+		"SUM(ex.Pago)" : 53287968.49694824
+	},
+	{
+		"COD_PROGRAMA" : 2131,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério do Trabalho e Previdência Social,
+		"NOM_FUNCAO" : Administração,
+		"SUM(ex.Autorizado)" : 1571073008.8893385,
+		"SUM(ex.Pago)" : 346299916.3056288
+	},
+	{
+		"COD_PROGRAMA" : 2131,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério do Trabalho e Previdência Social,
+		"NOM_FUNCAO" : Previdência Social,
+		"SUM(ex.Autorizado)" : 5683398298.570862,
+		"SUM(ex.Pago)" : 1412658586.0079193
+	},
+	{
+		"COD_PROGRAMA" : 2131,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção do Ministério do Trabalho e Previdência Social,
+		"NOM_FUNCAO" : Trabalho,
+		"SUM(ex.Autorizado)" : 320708986.5942383,
+		"SUM(ex.Pago)" : 39326642.44433594
+	},
+	{
+		"COD_PROGRAMA" : 2132,
+		"DES_PROGRAMA" : Programa de Gestão e Manutenção das Mulheres, da Igualdade Racial e dos Direitos Humanos,
+		"NOM_FUNCAO" : Direitos da Cidadania,
+		"SUM(ex.Autorizado)" : 109049877.83654785,
+		"SUM(ex.Pago)" : 17043567.43707657
+	},
+	{
+		"COD_PROGRAMA" : 9090,
+		"DES_PROGRAMA" : Reserva de Recursos,
+		"NOM_FUNCAO" : Reserva de Contingência,
+		"SUM(ex.Autorizado)" : 16978080608,
+		"SUM(ex.Pago)" : 0
+	}
+]
