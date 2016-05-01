@@ -8,18 +8,20 @@ from flask import Flask, request, flash, render_template
 
 from flask_bootstrap import Bootstrap
 
-import xls2py
+import resources
+
+from sql import updatesql, sql
 
 
-UPLOAD_FOLDER = '/home/romulofloresta/server_app/xls2py'
-ALLOWED_EXTENSIONS = {'xls', 'xlsx'}
-FUNC_FILE = 'funcoes-raw.xls'
-GND_FILE = 'gnd-raw.xls'
-JSON_FILE = 'server_app/version.json'
+UPLOAD_FOLDER = resources.UPLOAD_FOLDER
+VERSION_FILE = resources.VERSION_FILE
+JSON_RESPONSE_FILE=resources.JSON_RESPONSE_FILE
+DATA_FILE = 'datadb.sql'
+ALLOWED_EXTENSIONS = {'sql'}
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
-app.secret_key = 'some_secret'
+app.secret_key = resources.SECRET_KEY
 Bootstrap(app)
 
 def allowed_file(filename):
@@ -28,39 +30,45 @@ def allowed_file(filename):
 
 @app.route('/', methods=['GET'])
 def api_response():
-    return xls2py.convert()
+    with open(JSON_RESPONSE_FILE, 'r') as f:
+        response = json.load(f)
+        return json.dumps(response, ensure_ascii=False)
+
 
 
 @app.route('/upload', methods=['GET', 'POST'])
-def upload_xls():
+def upload_file():
     if request.method == 'POST':
-        file = request.files['file-func']
-        if file and allowed_file(file.filename):
-            file.save(os.path.join(app.config['UPLOAD_FOLDER'], FUNC_FILE))
-            flash("Arquivo de Funções Atualizado.")
 
-        file = request.files['file-gnd']
-        if file and allowed_file(file.filename):
-            file.save(os.path.join(app.config['UPLOAD_FOLDER'], GND_FILE))
-            flash("Arquivo GND Atualizado.")
-        update_version()
+        # Checa se arquivo e valido e atualiza
+        data_file = request.files['data-file']
+        if data_file and allowed_file(data_file.filename):
+            data_file.save(os.path.join(app.config['UPLOAD_FOLDER'], DATA_FILE))
+            update_version()
+            updatesql.import_data()
+            sql.save_json_data_file()
+            flash("Base de dados atualizada.", 'success')
+
+        else:
+            flash("Erro - Base não atualizada.", 'error')
+
     return render_template('upload.html')
 
 
 @app.route('/version', methods=['GET'])
 def version_response():
-    with open(JSON_FILE, 'r') as f:
+    with open(VERSION_FILE, 'r') as f:
         version_data = json.load(f)
         return json.dumps(version_data)
 
 
 def update_version():
-    with open(JSON_FILE, 'r') as f:
+    with open(VERSION_FILE, 'r') as f:
         version_data = json.load(f)
         f.close()
-    version_data['update_time'] = datetime.datetime.now().strftime("%x - %H:%M:%S")
+    version_data['date'] = datetime.datetime.now().strftime("%d/%m/%Y")
     version_data['version'] += 1
-    with open(JSON_FILE, 'w+') as f:
+    with open(VERSION_FILE, 'w+') as f:
         f.write(json.dumps(version_data))
         f.close()
 
