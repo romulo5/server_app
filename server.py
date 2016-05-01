@@ -7,13 +7,13 @@ from flask_bootstrap import Bootstrap
 
 
 import resources
-from sql import mdbtosql, sql
+from sql import updatesql, sql
 
 
 UPLOAD_FOLDER = 'sql'
-ALLOWED_EXTENSIONS = {'mdb'}
+ALLOWED_EXTENSIONS = {'sql'}
 VERSION_FILE = 'version.json'
-DATA_FILE = 'data.mdb'
+DATA_FILE = 'datadb.sql'
 JSON_RESPONSE_FILE='response.json'
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
@@ -41,9 +41,9 @@ def upload_file():
         if data_file and allowed_file(data_file.filename):
             data_file.save(os.path.join(app.config['UPLOAD_FOLDER'], DATA_FILE))
             update_version()
+            updatesql.import_data()
+            sql.save_json_data_file()
             flash("Base de dados atualizada.", 'success')
-            mdbtosql.insert_data()
-
         else:
             flash("Erro - Base não atualizada.", 'error')
 
