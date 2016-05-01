@@ -1,3 +1,11 @@
 # RESOURCE FILE #
 ###################
-#resources.py
+
+# Byte-compiled / optimized / DLL files
+ __pycache__/
+ *.py[cod]
+ *$py.class
+
+#Resource file
+
+resources.py
