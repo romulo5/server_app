@@ -1,6 +1,8 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
+# problemas na conexao do db no server, chamar funcao save_json_data_file() diretamente no interpretador para atualizar
+
 import collections
 
 import json
@@ -66,6 +68,7 @@ def get_data(query, dado):
             objects_list.append(d)
 
     return objects_list
+
 
 def save_json_data_file():
     funcoes = get_data(FUNCAO_QUERY, FUNCAO)
